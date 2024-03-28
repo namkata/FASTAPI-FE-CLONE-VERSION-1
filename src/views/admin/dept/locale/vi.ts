@@ -1,0 +1,37 @@
+export default {
+  'menu.system.sysDept': 'Quản lý Phòng ban',
+  // form
+  'admin.dept.form.name': 'Tên phòng ban',
+  'admin.dept.form.name.placeholder': 'Nhập tên phòng ban',
+  'admin.dept.form.leader': 'Trưởng phòng',
+  'admin.dept.form.leader.placeholder': 'Nhập tên trưởng phòng',
+  'admin.dept.form.phone': 'Số điện thoại liên hệ',
+  'admin.dept.form.phone.placeholder': 'Nhập số điện thoại liên hệ',
+  'admin.dept.form.status': 'Trạng thái',
+  'admin.dept.form.status.1': 'Hoạt động',
+  'admin.dept.form.status.0': 'Ngưng hoạt động',
+  'admin.dept.form.selectDefault': 'Tất cả',
+  'admin.dept.form.search': 'Tìm kiếm',
+  'admin.dept.form.reset': 'Đặt lại',
+  'admin.dept.form.parent_name': 'Phòng ban cha',
+  'admin.dept.form.parent_name.placeholder': 'Gốc',
+  'admin.dept.form.name.help': 'Tên phòng ban là bắt buộc',
+  'admin.dept.form.email.placeholder': 'Nhập email',
+  'admin.dept.form.sort.placeholder': 'Nhập số thứ tự',
+  // button
+  'admin.dept.button.create': 'Tạo mới',
+  'admin.dept.button.collapse': 'Thu gọn/Mở rộng',
+  // drawer
+  'admin.dept.columns.new.drawer': 'Tạo mới phòng ban',
+  'admin.dept.columns.edit.drawer': 'Chỉnh sửa phòng ban',
+  'admin.dept.columns.delete.drawer': 'Xóa phòng ban',
+  // columns
+  'admin.dept.columns.name': 'Tên phòng ban',
+  'admin.dept.columns.parent_name': 'Phòng ban cha',
+  'admin.dept.columns.sort': 'Thứ tự',
+  'admin.dept.columns.leader': 'Trưởng phòng',
+  'admin.dept.columns.phone': 'Số điện thoại',
+  'admin.dept.columns.email': 'Email',
+  'admin.dept.columns.status': 'Trạng thái',
+  'admin.dept.columns.created_time': 'Thời gian tạo',
+};
